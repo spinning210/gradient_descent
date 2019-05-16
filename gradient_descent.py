@@ -6,8 +6,6 @@ import matplotlib.pyplot as plt
 import math
 from numpy import arange
 
-
-
 def target_func(x,get_points): 
     results = []
     min_x = 10
